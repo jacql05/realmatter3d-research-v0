@@ -5,7 +5,7 @@ DOCUMENT_KIND = REALMATTER3D_PUBLIC_RESEARCH_V0_PACKAGE
 AUTHORITY_CLASS = NOT_SSOT  # Authority: docs/SSOT/AUTHORITY_TERMS.md
 STATUS = PACKAGE_MATERIALIZED
 PUBLICATION_PACKAGE_READY = YES
-EXTERNAL_PUBLICATION_AUTHORIZED = NO
+EXTERNAL_PUBLICATION_AUTHORIZED = YES
 PROJECT_AUTHORITY = NONE
 ```
 
@@ -76,7 +76,7 @@ It does not become authority over any private production project.
 Private-corpus-derived findings remain explicitly bounded as such.
 Unknown redistribution rights remain excluded.
 Public fixtures are not required for this package to be understandable.
-EXTERNAL_PUBLICATION_AUTHORIZED = NO
+EXTERNAL_PUBLICATION_AUTHORIZED = YES
 ```
 
 ---

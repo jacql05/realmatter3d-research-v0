@@ -44,11 +44,18 @@ shadow / blocked ops capability ≠ production science
 package materialized ≠ externally published
 ```
 
+## Current publication status
+
+Publication status is not a scientific non-claim.
+
+```text
+EXTERNAL_PUBLICATION_AUTHORIZED = YES
+```
+
 ## Status tokens that remain false / absent
 
 ```text
 QUANTITATIVE_FIDELITY_ESTABLISHED = NO
 PROVEN_REFERENCE_GROUNDED_REPAIR = NONE
 REPAIR_PROVEN = NO
-EXTERNAL_PUBLICATION_AUTHORIZED = NO
 ```
